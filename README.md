@@ -1,5 +1,6 @@
 
 # Custom Workforce Manager
+
 ## Progressive Web Application (Mobile/Tablet First)
 
 ![License: Apache](https://img.shields.io/badge/License-Apache2.0-yellow.svg)
@@ -37,14 +38,14 @@
 
 ### Technology Used (MERN Stack)
 
-* MongoDb
-* Express
-* React (w/ hooks)
-* Node.Js
-* Passport.Js
-* Sortable Js
-* Moment
-* react-material-ui
+- MongoDb
+- Express
+- React (w/ hooks)
+- Node.Js
+- Passport.Js
+- Sortable Js
+- Moment
+- react-material-ui
 
 ### Visuals
 
@@ -54,8 +55,8 @@
 
 ### Links
 
-* Deployed Application: Personal Version - <https://tranquil-forest-68396.herokuapp.com/>
-* Deployed Application: Original - <https://custom-workforce-manager.herokuapp.com/>
+- Deployed Application: Personal Version - <https://tranquil-forest-68396.herokuapp.com/>
+- Deployed Application: Original - <https://custom-workforce-manager.herokuapp.com/>
 
 ### Installation
 
@@ -67,19 +68,22 @@ Run "npm install" in the command line of your terminal to set up all of the depe
 Populate the existing database items by running "npm run seed" in your terminal
 Run "npm start" to start the application's connection
 Go to the url of the application (http//:localhost:3000) to begin using it
-  #### Login Information
-  * Admin Username: Crew #1 | Password: 4CfkVBoxV
-  * Employee Username: Crew #2 | Password: Ggjz4t1
+
+#### Login Information
+
+- Admin Username: Crew #1 | Password: 4CfkVBoxV
+- Employee Username: Crew #2 | Password: Ggjz4t1
 
 ### Future Development
-  #### PWA Functionalities (in progress)
 
-  * Available offline
-  * Downloadable to android + ios homescreen's
-  * Device camera functionality / implementation
-  * Fast load speeds
-  * Mobile app look/feel
-  * Push Notifications (mobile + desktop)
+#### PWA Functionalities (in progress)
+
+- Available offline
+- Downloadable to android + ios homescreen's
+- Device camera functionality / implementation
+- Fast load speeds
+- Mobile app look/feel
+- Push Notifications (mobile + desktop)
 
 ### Contribute
 
