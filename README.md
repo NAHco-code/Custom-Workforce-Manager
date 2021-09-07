@@ -41,27 +41,17 @@ PAGES:
       - button to mark as complete
       - ** ADMIN: button to approve job complete + generate invoice
 
-TODO:
-- where to put invoice form
-- authentication
-- create components
-  -
-  -
-- connect components + render in App
-- working links in popout menu
-- put button for edit job on job details page + render edit details for that specific job
-
 TODO / FIX:
 - fix authentication functionality
 - edit job page - render information already stored in job page if there is any + make editable
 - PWA functionality
 
-CURRENT ASSIGNMENTS:
+TEAM ASSIGNMENTS:
 
 - Will:
-*Password Auth - using passport npm package[done]
-  - auth util:
-    - declare logged in user sessionid/user is + type (admin or employee)
+  *Password Auth - using passport npm package[done]
+    - auth util:
+      - declare logged in user sessionid/user is + type (admin or employee)
 
 - Corrine:
   * emp and admin dash with if/else functionality
@@ -86,7 +76,7 @@ CURRENT ASSIGNMENTS:
 
 - Michael:
   * database up and running [done]
-  * invoice - employee fill out and pdf download [by tues]
+  * invoice - employee fill out and pdf download [in progress]
 
 - Later:
   - define company we're making this for
