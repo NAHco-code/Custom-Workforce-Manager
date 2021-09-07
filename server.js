@@ -1,4 +1,5 @@
-require('dotenv').config();
+
+require( 'dotenv' ).config();
 const path = require('path');
 const express = require('express');
 const logger = require('morgan');
@@ -9,18 +10,18 @@ const cors = require('cors');
 const errorHandler = require('errorhandler');
 const routes = require('./routes');
 
-//Configure mongoose's promise to global promise
+// Configure mongoose's promise to global promise
 mongoose.promise = global.Promise;
 
-//Configure isProduction variable
+// Configure isProduction variable
 const isProduction = process.env.NODE_ENV === 'production';
 
 const PORT = process.env.PORT || 3001;
 
-//Initiate our app
+// Initiate app
 const app = express();
 
-//Configure our app
+//Configure app
 app.use(cors());
 app.use(logger('dev'));
 
@@ -38,7 +39,7 @@ if (isProduction) {
     app.use(express.static(path.join(__dirname, './client/build')));
 }
 
-//Configure Mongoose
+// Configure Mongoose
 mongoose.connect(
     process.env.MONGODB_URI || 'mongodb://localhost/fleetsheets',
     {
