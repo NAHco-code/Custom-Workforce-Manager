@@ -54,7 +54,8 @@
 
 ### Links
 
-* Deployed Application: <https://custom-workforce-manager.herokuapp.com/>
+* Deployed Application: Personal Version - <https://tranquil-forest-68396.herokuapp.com/>
+* Deployed Application: Original - <https://custom-workforce-manager.herokuapp.com/>
 
 ### Installation
 
