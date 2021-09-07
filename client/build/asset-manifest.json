@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.321e7418.chunk.css",
+    "main.js": "/static/js/main.0847ea65.chunk.js",
+    "main.js.map": "/static/js/main.0847ea65.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.314b67e1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.314b67e1.js.map",
+    "static/js/2.7b739d6a.chunk.js": "/static/js/2.7b739d6a.chunk.js",
+    "static/js/2.7b739d6a.chunk.js.map": "/static/js/2.7b739d6a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c32187c5aa9752e14f0872ca26911b3a.js": "/precache-manifest.c32187c5aa9752e14f0872ca26911b3a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.321e7418.chunk.css.map": "/static/css/main.321e7418.chunk.css.map",
+    "static/js/2.7b739d6a.chunk.js.LICENSE.txt": "/static/js/2.7b739d6a.chunk.js.LICENSE.txt",
+    "static/media/logo-w-name.PNG": "/static/media/logo-w-name.de49358b.PNG",
+    "static/media/logo.PNG": "/static/media/logo.a761838b.PNG",
+    "static/media/App.css": "/static/media/sign-in-gradient.b55e48d8.JPG",
+    "static/media/three-leaves-schedule.PNG": "/static/media/three-leaves-schedule.c38fb0e4.PNG",
+    "static/media/view-details-color-vibrant.PNG": "/static/media/view-details-color-vibrant.8aede932.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.314b67e1.js",
+    "static/js/2.7b739d6a.chunk.js",
+    "static/css/main.321e7418.chunk.css",
+    "static/js/main.0847ea65.chunk.js"
+  ]
+}
