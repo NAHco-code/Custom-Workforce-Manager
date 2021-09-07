@@ -121,6 +121,7 @@ CURRENT ASSIGNMENTS:
 ## Table of Contents
 
 - [User Story](#user-story)
+- [Features](#features)
 - [Technology](#technology)
 - [Visuals](#visuals)
 - [Links](#links)
@@ -148,6 +149,9 @@ CURRENT ASSIGNMENTS:
     - mark jobs completed
     - have the ability to continue to work while remote and offline
     SO THAT I can continue to complete my job expectations in an easy and organized fashion.
+
+### Features
+
 
 ### Technology Used (MERN Stack)
 
