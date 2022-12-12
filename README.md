@@ -8,7 +8,7 @@
 ## Table of Contents
 
 - [User Story](#user-story)
-- [Technology](#technology)
+- [Tech](#tech)
 - [Visuals](#visuals)
 - [Links](#links)
 - [Installation](#installation)
@@ -36,7 +36,7 @@
     - have the ability to continue to work while remote and offline
     SO THAT I can continue to complete my job expectations in an easy and organized fashion.
 
-### Technology Used (MERN Stack)
+### Tech
 
 - MongoDb
 - Express
